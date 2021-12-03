@@ -20,7 +20,7 @@ and may be freely used, distributed and modified.
 Retain the contribution notices and credits.
 
 Current maintainer: 
-xinze@hust.edu.cn
+ldk689@vip.qq.com
 
 
 **********************************************************************
