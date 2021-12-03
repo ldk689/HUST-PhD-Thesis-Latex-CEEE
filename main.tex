@@ -1,0 +1,65 @@
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
+
+\documentclass[draftformat,mathCMR]{HUSTthesis}
+% 所有其它可能用到的包都统一放到这里了，可以根据自己的实际添加或者删除。这样做
+% 主要是为了避免class文件过于臃肿。
+% 最终提交版可将draftformat改为finalformat，这样页眉和页脚会标红
+\usepackage{HUSTtils}
+% \setmainfont{Times New Roman}[Scale=.9]
+\setmainfont{Times New Roman}
+%\includeonly{body/chap02}
+
+\begin{document}
+
+%定义所有的eps文件在 figures 子目录下
+\graphicspath{{figures/}}
+
+% 生成封面，版权页，摘要
+
+\frontmatter
+\input{body/cover}
+\makecover
+
+%目录
+
+\renewcommand{\currentchapter}{目录}
+\tableofcontents
+
+% 对照表
+\include{body/denotation}
+
+\mainmatter
+\include{body/chap01}
+\include{body/chap02}
+
+
+%%% 结论
+\include{body/conclusion}
+
+%%% 致谢
+\include{body/ack}
+
+
+%%% 参考文献
+%Included for Gather Purpose only:
+%input "ref/refs.bib"
+
+\bibliographystyle{HUSTThesis}
+\thispagestyle{empty}
+\bibliography{ref/refs}
+
+
+
+%%% 附录
+\begin{appendix}
+\input{body/publications}
+\input{body/patent}
+\input{body/project}
+%\input{body/appendix01}
+%\input{body/appendix02}
+\end{appendix}
+
+\end{document}

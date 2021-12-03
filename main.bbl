@@ -1,0 +1,81 @@
+\begin{thebibliography}{10}
+
+\bibitem{meng}
+华工研院.
+\newblock 华中科技大学硕士学位论文封面模板.
+\newblock 2004.
+
+\bibitem{TEXGURU99}
+{\TeX}Guru.
+\newblock {\LaTeX 2$\varepsilon$}用户手册.
+\newblock 1999.
+
+\bibitem{OETIKER02}
+Oetiker T.
+\newblock The Not So Short Introduction to \LaTeX2e.
+\newblock 2002.
+
+\bibitem{dvips}
+Rokicki T.
+\newblock Dvips: a dvi-to-postscript translator.
+\newblock February, 1997.
+
+\bibitem{dvipdfm}
+Wicks M~A.
+\newblock Dvipdfm user’s manual.
+\newblock September, 1999.
+
+\bibitem{Collin}
+Collin R~E.
+\newblock  Field Theory of Guided Waves, {2nd} ed.
+\newblock New York, NY: IEEE Press, 1986, chapter~2, pages 104--105.
+
+\bibitem{jyzj1}
+黄裳.
+\newblock 九阴真经.
+\newblock 中国, 武汉: 华中理工大学出版社, 1985,  1--5.
+
+\bibitem{jyzj2}
+王重阳, 黄药师, 郭靖等.
+\newblock  九阴真经,  第2 版.
+\newblock 中国, 武汉: 华中科技大学出版社, 2006.
+
+\bibitem{Oliner_MTT_1984_09}
+Oliner A~A.
+\newblock Historical perspectives on microwave field theory.
+\newblock {IEEE} Trans. Microwave Theory Tech., 1984, 32(9):1022--1045.
+
+\bibitem{yangguo}
+杨过.
+\newblock 论黯然销魂掌的第十七式.
+\newblock 东方武侠学会会刊, 2005, 2(1):10--15.
+
+\bibitem{DPMG}
+Kim S, Woo N, Yeom H~Y, et~al.
+\newblock Design and {I}mplementation of {D}ynamic {P}rocess {M}anagement for
+  {G}rid-enabled {MPICH}.
+\newblock in: Collin R~E, editor, Proceedings of the 10th European PVM/MPI
+  Users' Group Conference, Venice, Italy, September, 2003, 1022-1045.
+
+\bibitem{zhangsanfeng}
+张三丰.
+\newblock 论太极剑与独孤九剑的联系: [硕士学位论文].
+\newblock 武汉: 华中科技大学, 2000.
+
+\bibitem{huangrong}
+黄蓉.
+\newblock 江浙菜系的若干讨论: [博士学位论文].
+\newblock 武汉: 华中科技大学, 2005.
+
+\bibitem{CCPT}
+Safavi-Naini R.
+\newblock On solving waveguide junction scattering problem by the conservation
+  of complex power technique: [PhD Dissertation].
+\newblock {Waterloo, Ontario, Canada}: {Univ. of Waterloo}, March, 1979.
+
+\bibitem{graphguide}
+Reckdahl K, 王磊翻译.
+\newblock \LaTeXe{} 插图指南.
+\newblock 1997.
+
+\end{thebibliography}
