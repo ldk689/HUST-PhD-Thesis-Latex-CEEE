@@ -2,8 +2,9 @@
 
 
 HUSTThesis.cls 2021/12/3 version V4.0
+(especially used in CEEE)
 
-This is the unofficial LaTeX class for Master Thesis Template of Huazhong University of Science and Technology
+This is the unofficial LaTeX class for Doctor Thesis Template of Huazhong University of Science and Technology
 
 
 Contributors: Dake Li (2021 V4.0),Xinze Zhang (2020 V3.0), Huikan Liu (2006 V2.0), and Feng Jiang (2005 V1.0). 
